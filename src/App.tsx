@@ -18,7 +18,7 @@ function App() {
         <header className="flex justify-between items-center p-4 border-b border-gray-700 w-full md:w-[80%] mx-auto">
           <h1 className="text-xl font-bold flex items-center gap-2">
             <span className="bg-green-600 w-6 h-6 rounded-full inline-block"></span>{" "}
-            Pied Piper
+            Piedd Piper
           </h1>
           <div className="flex items-center gap-6">
             <nav className="hidden md:flex gap-6">
