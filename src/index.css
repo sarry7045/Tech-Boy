@@ -18,6 +18,23 @@
   -moz-osx-font-smoothing: grayscale;
 } */
 
+.hidden {
+  display: none;
+}
+
+.custom-file-label {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.custom-file-label:hover {
+  background-color: #0056b3;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
